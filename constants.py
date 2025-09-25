@@ -1,0 +1,8 @@
+BERT_CLS_TOKEN = 101
+BERT_SEP_TOKEN = 102
+BERT_PAD_TOKEN = 0
+config = {
+    "START_TOKEN": 101,
+    "EOS_TOKEN": 102,
+    "PAD_TOKEN": 0
+}
